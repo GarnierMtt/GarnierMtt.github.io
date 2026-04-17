@@ -1,1 +1,1 @@
-[Matt. Garnier](https://github.com/GarnierMtt)'s portfolio.
+[Matt. Garnier](https://github.com/GarnierMtt)'s [portfolio](https://garniermtt.github.io/).
