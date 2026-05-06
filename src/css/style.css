@@ -14,7 +14,7 @@ body {
                 padding: 5px;
             }
 
-            tbody > tr > td:nth-child(n+3){
+            tbody > tr > td{
                 text-align: center;
                 font-size: 2em;
             }
@@ -40,11 +40,17 @@ body {
             .verText{
                 writing-mode: sideways-lr;
                 font-weight: lighter;
-                height: 550px;
+                height: auto;
             }
             .verTextDate{
                 writing-mode: sideways-lr;
                 letter-spacing: 2px;
+                font-size: 1em;
+            }
+
+            .realisation{
+                font-size: 1.3em;
+                text-align: start;
             }
 
             .colCath{
