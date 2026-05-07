@@ -14,6 +14,14 @@ body {
                 padding: 5px;
             }
 
+            p, li {
+                margin-left: .8em;
+            }
+
+            span > span {
+                margin-left: 2em;
+            }
+
             tbody > tr > td{
                 text-align: center;
                 font-size: 2em;
@@ -59,4 +67,22 @@ body {
 
             .dumbSpace{
                 height: 10;
+            }
+
+            #name{
+                writing-mode: sideways-lr;
+                height: auto;
+                border-right: .3em solid rgb(225, 5, 56);
+            }
+
+            .bg-purple{
+                background-color: rgb(72, 54, 121);
+            }
+
+            .h-sep{
+                border-bottom: .5em solid rgb(225, 5, 56);
+            }
+
+            .bot-pad{
+                padding-bottom: .3em;
             }
